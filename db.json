@@ -1,0 +1,86 @@
+{
+    "items": [
+        {
+            "name": "PATRIS White Line Sneakers",
+            "rating": "4.8",
+            "price": "190.576",
+            "type": "Shoes",
+            "description": "Soft blue shoe with white line",
+	        "image": "https://images.asos-media.com/products/vans-old-skool-sneakers-in-light-blue/201995126-1-lightblue"
+
+        },
+        {
+            "name": "ELLORA Pink Base Women Shoes",
+            "rating": "4.5",
+            "price": "122.800",
+            "type": "Shoes",
+            "description": "Soft pink shoe with white line",
+	        "image": "https://images.journeys.com/images/products/1_595589_ZM.JPG"
+        },
+        {
+            "name": "ADODOS Knitted Elastic Sneakers",
+            "rating": "4.9",
+            "price": "210.433",
+            "type": "Shoes",
+            "description": "Greyish black shoe",
+	        "image": "https://s3.bukalapak.com/img/3244441439/s-463-463/data.png.webp"
+        },
+        {
+            "name": "NIKY Casual Grafitti Sneakers",
+            "rating": "4.2",
+            "price": "189.500",
+            "type": "Shoes",
+            "description": "Black and pink shoe",
+	        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ85BDN2TF9b4sANpMSlOedCvLzXobxxumFaQ&usqp=CAU"
+        },
+        {
+            "name": "NIKY Simple Pink Base Shoes",
+            "rating": "4.9",
+            "price": "192.760",
+            "type": "Shoes",
+            "description": "Plain soft pink shoe",
+	        "image": "https://i.pinimg.com/736x/29/c3/0b/29c30b030d7b3f8cb7ccd23a41f8ce35--nike-air-max-thea-pink-nike-air-max-thea-outfit.jpg"
+        },
+        {
+            "name": "MENFOLKS Full Printed Custom",
+            "rating": "4.8",
+            "price": "190.576",
+            "type": "Shoes",
+            "description": "Soft blue shoe with white line",
+	        "image": "https://cdn.shopify.com/s/files/1/0541/0437/products/IMG_8357_250x250@2x.jpg"
+        },
+        {
+            "name": "Custom blue Tshirt",
+            "rating": "4.8",
+            "price": "230.000",
+            "type": "Shoes",
+            "description": "Soft blue shoe with white line",
+	        "image": "https://cdn.discordapp.com/attachments/898524416303071273/988713643506020362/1578652951-8850875745e185517d23592-54608788.jpg"
+        },
+        {
+            "name": "Kennedy President white Tshirt",
+            "rating": "4.5",
+            "price": "300.000",
+            "type": "Shoes",
+            "description": "Soft blue shoe with white line",
+	        "image": "https://cdn.discordapp.com/attachments/898524416303071273/988713645741604865/843de0fd641e7672dacf9ebec5bb6e6f.jpg"
+        },
+        {
+            "name": "Custom phone case",
+            "rating": "4.7",
+            "price": "120.130",
+            "type": "Shoes",
+            "description": "Soft blue shoe with white line",
+	        "image": "https://cdn.discordapp.com/attachments/898524416303071273/988713645980667934/58eae8dd5f140a796184b7ccb0f96590.jpg"
+        },
+        {
+            "name": "Grey Tshirt",
+            "rating": "4.1",
+            "price": "230.000",
+            "type": "Shoes",
+            "description": "Soft blue shoe with white line",
+	        "image": "https://cdn.discordapp.com/attachments/898524416303071273/988713646249111622/79d5470771efe9470c3a0746914ac5f0.jpg"
+        }
+        
+    ]
+}
